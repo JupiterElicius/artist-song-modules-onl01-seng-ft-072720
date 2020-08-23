@@ -1,5 +1,6 @@
 module Findable
-  module ClassMethods  
+  module ClassMethods
+    
   
   
   
